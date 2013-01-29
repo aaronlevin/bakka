@@ -1,6 +1,6 @@
 # Bakka
 
-Bash is fun, but so is Akka and Scala. Wouldn't it be fun, and kinda [ridiculous](http://en.wikipedia.org/wiki/Baka_(word)), to implement some of the great command-line unix tools (read: *pipe*) using Akka?
+Bash is fun, but so is Akka and Scala. Wouldn't it be fun, and kinda [ridiculous](http://en.wikipedia.org/wiki/Baka_(word\)), to implement some of the great command-line unix tools (read: *pipe*) using Akka?
 
     Cat("ye_olde_list_of_banach_algebras.txt") {
       ( Grep("^C\\*")
